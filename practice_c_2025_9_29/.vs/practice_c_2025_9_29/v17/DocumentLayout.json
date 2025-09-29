@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF250BA-A49B-48A1-849D-554DEA7005BD}|practice_c_2025_9_29\\practice_c_2025_9_29.vcxproj|E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29\\practice_c_2025_9_29\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BF250BA-A49B-48A1-849D-554DEA7005BD}|practice_c_2025_9_29\\practice_c_2025_9_29.vcxproj|solutionrelative:practice_c_2025_9_29\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF250BA-A49B-48A1-849D-554DEA7005BD}|practice_c_2025_9_29\\practice_c_2025_9_29.vcxproj|E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29\\practice_c_2025_9_29\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BF250BA-A49B-48A1-849D-554DEA7005BD}|practice_c_2025_9_29\\practice_c_2025_9_29.vcxproj|solutionrelative:practice_c_2025_9_29\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29\\practice_c_2025_9_29\\main.c",
+              "RelativeDocumentMoniker": "practice_c_2025_9_29\\main.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29\\practice_c_2025_9_29\\main.c",
+              "RelativeToolTip": "practice_c_2025_9_29\\main.c",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-29T08:21:35.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29\\practice_c_2025_9_29\\test.c",
+              "RelativeDocumentMoniker": "practice_c_2025_9_29\\test.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29\\practice_c_2025_9_29\\test.c",
+              "RelativeToolTip": "practice_c_2025_9_29\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-29T07:40:32.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  main.c
+E:\CODE\learn_c-cpp\practice_c_2025_9_29\practice_c_2025_9_29\main.c(215,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\CODE\learn_c-cpp\practice_c_2025_9_29\practice_c_2025_9_29\main.c(217,9): warning C4552: ”%“: 未使用表达式结果
+E:\CODE\learn_c-cpp\practice_c_2025_9_29\practice_c_2025_9_29\main.c(219,4): warning C4552: ”+“: 未使用表达式结果
+E:\CODE\learn_c-cpp\practice_c_2025_9_29\practice_c_2025_9_29\main.c(228,7): warning C4101: “ch3”: 未引用的局部变量
+E:\CODE\learn_c-cpp\practice_c_2025_9_29\practice_c_2025_9_29\main.c(227,6): warning C4101: “arr4”: 未引用的局部变量
+  practice_c_2025_9_29.vcxproj -> E:\CODE\learn_c-cpp\practice_c_2025_9_29\x64\Debug\practice_c_2025_9_29.exe
