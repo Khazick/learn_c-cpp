@@ -1,0 +1,5 @@
+﻿  main.c
+E:\CODE\learn_c-cpp\practice_c_2025_9_30\practice_c_2025_9_30\main.c(265,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\CODE\learn_c-cpp\practice_c_2025_9_30\practice_c_2025_9_30\main.c(237,8): warning C4101: “f”: 未引用的局部变量
+E:\CODE\learn_c-cpp\practice_c_2025_9_30\practice_c_2025_9_30\main.c(236,7): warning C4101: “ch”: 未引用的局部变量
+  practice_c_2025_9_30.vcxproj -> E:\CODE\learn_c-cpp\practice_c_2025_9_30\x64\Debug\practice_c_2025_9_30.exe
