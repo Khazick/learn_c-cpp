@@ -1,0 +1,8 @@
+﻿  arr01.c
+E:\CODE\learn_c-cpp\practice_c_2025_10_1\practice_c_2025_10_1\arr01.c(6,2): warning C4013: “init”未定义；假设外部返回 int
+E:\CODE\learn_c-cpp\practice_c_2025_10_1\practice_c_2025_10_1\arr01.c(7,2): warning C4013: “print”未定义；假设外部返回 int
+E:\CODE\learn_c-cpp\practice_c_2025_10_1\practice_c_2025_10_1\arr01.c(8,2): warning C4013: “scan”未定义；假设外部返回 int
+E:\CODE\learn_c-cpp\practice_c_2025_10_1\practice_c_2025_10_1\arr01.c(9,2): warning C4013: “reverse”未定义；假设外部返回 int
+  main.c
+  正在生成代码...
+  practice_c_2025_10_1.vcxproj -> E:\CODE\learn_c-cpp\practice_c_2025_10_1\x64\Debug\practice_c_2025_10_1.exe
