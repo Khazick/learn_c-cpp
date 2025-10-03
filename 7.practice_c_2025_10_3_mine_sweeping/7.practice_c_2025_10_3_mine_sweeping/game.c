@@ -12,9 +12,7 @@ void init_mine(char mine[99][99], int rows, int cols,char set) {
 
 void mine_number(int d) {
 	printf("|--------------------------|\n");
-	printf("|     ****************     |\n");
 	printf("|     * 一共有%d个雷 *     |\n", d);
-	printf("|     ****************     |\n");
 	printf("|--------------------------|\n");
 }
 //打印扫雷棋盘
@@ -85,7 +83,6 @@ void find_mine(char mine[99][99], char board[99][99],int row, int col,int d) {
 		print_mine(board, row, col);
 		//print_mine(mine, row, col);	
 		mine_number(d);
-		printf("|--------------------------|\n");
 		printf("|     ( x , y , 功能 )     |\n");
 		printf("|     功能输入1：排除      |\n|     功能输入2：标记      |\n|     功能输入3：取消标记  |\n");
 		printf("|     请输入坐标扫雷：     |\n");

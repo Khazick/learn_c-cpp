@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\",
+  "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|solutionrelative:practice_c_2025_9_29_Guess_Number\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|solutionrelative:practice_c_2025_9_29_Guess_Number\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|solutionrelative:practice_c_2025_9_29_Guess_Number\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|solutionrelative:practice_c_2025_9_29_Guess_Number\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CC3B4D9-9B85-4522-B7FE-CC412C8106E0}|practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number.vcxproj|solutionrelative:practice_c_2025_9_29_Guess_Number\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,28 +26,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "menu.c",
-              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\menu.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\menu.c",
               "RelativeDocumentMoniker": "practice_c_2025_9_29_Guess_Number\\menu.c",
-              "ToolTip": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\menu.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\menu.c",
               "RelativeToolTip": "practice_c_2025_9_29_Guess_Number\\menu.c",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-29T13:05:32.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T13:05:32.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "game.h",
-              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.h",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.h",
               "RelativeDocumentMoniker": "practice_c_2025_9_29_Guess_Number\\game.h",
-              "ToolTip": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.h",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.h",
               "RelativeToolTip": "practice_c_2025_9_29_Guess_Number\\game.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -56,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "game.c",
-              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.c",
               "RelativeDocumentMoniker": "practice_c_2025_9_29_Guess_Number\\game.c",
-              "ToolTip": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\game.c",
               "RelativeToolTip": "practice_c_2025_9_29_Guess_Number\\game.c",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAbAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-09-29T12:55:02.237Z",
               "EditorCaption": ""
@@ -71,14 +70,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "main.c",
-              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\main.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\main.c",
               "RelativeDocumentMoniker": "practice_c_2025_9_29_Guess_Number\\main.c",
-              "ToolTip": "E:\\CODE\\learn_c-cpp\\practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\main.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\4.practice_c_2025_9_29_Guess_Number\\practice_c_2025_9_29_Guess_Number\\main.c",
               "RelativeToolTip": "practice_c_2025_9_29_Guess_Number\\main.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-29T12:54:47.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T12:54:47.708Z"
             }
           ]
         }
