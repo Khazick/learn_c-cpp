@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F97BD661-9E75-45D6-835F-EAC0EFC2B44B}|7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping.vcxproj|E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F97BD661-9E75-45D6-835F-EAC0EFC2B44B}|7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping.vcxproj|solutionrelative:7.practice_c_2025_10_3_mine_sweeping\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97BD661-9E75-45D6-835F-EAC0EFC2B44B}|7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping.vcxproj|E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F97BD661-9E75-45D6-835F-EAC0EFC2B44B}|7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping.vcxproj|solutionrelative:7.practice_c_2025_10_3_mine_sweeping\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97BD661-9E75-45D6-835F-EAC0EFC2B44B}|7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping.vcxproj|E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F97BD661-9E75-45D6-835F-EAC0EFC2B44B}|7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping.vcxproj|solutionrelative:7.practice_c_2025_10_3_mine_sweeping\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\game.c",
+              "RelativeDocumentMoniker": "7.practice_c_2025_10_3_mine_sweeping\\game.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\game.c",
+              "RelativeToolTip": "7.practice_c_2025_10_3_mine_sweeping\\game.c",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAIwFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-03T05:48:42.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\main.c",
+              "RelativeDocumentMoniker": "7.practice_c_2025_10_3_mine_sweeping\\main.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\main.c",
+              "RelativeToolTip": "7.practice_c_2025_10_3_mine_sweeping\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-03T05:48:13.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\game.h",
+              "RelativeDocumentMoniker": "7.practice_c_2025_10_3_mine_sweeping\\game.h",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\7.practice_c_2025_10_3_mine_sweeping\\7.practice_c_2025_10_3_mine_sweeping\\game.h",
+              "RelativeToolTip": "7.practice_c_2025_10_3_mine_sweeping\\game.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-03T05:48:23.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
