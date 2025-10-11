@@ -1,0 +1,3 @@
+﻿  main.c
+E:\CODE\learn_c-cpp\8.practice_c_2025_10_11\8.practice_c_2025_10_11\main.c(160,9): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  8.practice_c_2025_10_11.vcxproj -> E:\CODE\learn_c-cpp\8.practice_c_2025_10_11\x64\Debug\8.practice_c_2025_10_11.exe
