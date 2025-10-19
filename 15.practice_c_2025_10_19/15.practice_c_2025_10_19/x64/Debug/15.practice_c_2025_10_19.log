@@ -1,0 +1,18 @@
+﻿  main.c
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(108,2): warning C4013: “strcpy”未定义；假设外部返回 int
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(109,2): warning C4013: “strcat”未定义；假设外部返回 int
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(110,9): warning C4013: “strstr”未定义；假设外部返回 int
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(110,27): warning C4047: “!=”:“int”与“void *”的间接级别不同
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(286,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(286,9):
+  请考虑在格式字符串中使用“%zd”
+  
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(290,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(290,9):
+  请考虑在格式字符串中使用“%zd”
+  
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(343,6): warning C4047: “=”:“char”与“char [5]”的间接级别不同
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(328,7): warning C4047: “初始化”:“int *”与“int (*)[5]”的间接级别不同
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(117,1): warning C4716: “main03”: 必须返回一个值
+E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\15.practice_c_2025_10_19\main.c(135,1): warning C4715: “find_num1”: 不是所有的控件路径都返回值
+  15.practice_c_2025_10_19.vcxproj -> E:\CODE\learn_c-cpp\15.practice_c_2025_10_19\x64\Debug\15.practice_c_2025_10_19.exe
