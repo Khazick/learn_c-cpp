@@ -1,0 +1,6 @@
+﻿  main.c
+E:\CODE\learn_c-cpp\20.practice_c_2025_10_23\20.practice_c_2025_10_23\main.c(18,12): warning C4090: “return”: 不同的“const”限定符
+E:\CODE\learn_c-cpp\20.practice_c_2025_10_23\20.practice_c_2025_10_23\main.c(21,9): warning C4090: “=”: 不同的“const”限定符
+E:\CODE\learn_c-cpp\20.practice_c_2025_10_23\20.practice_c_2025_10_23\main.c(16,8): warning C4090: “初始化”: 不同的“const”限定符
+E:\CODE\learn_c-cpp\20.practice_c_2025_10_23\20.practice_c_2025_10_23\main.c(141,8): warning C4090: “初始化”: 不同的“const”限定符
+  20.practice_c_2025_10_23.vcxproj -> E:\CODE\learn_c-cpp\20.practice_c_2025_10_23\x64\Debug\20.practice_c_2025_10_23.exe
