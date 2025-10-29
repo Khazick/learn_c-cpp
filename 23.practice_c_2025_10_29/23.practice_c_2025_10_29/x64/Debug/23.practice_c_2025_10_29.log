@@ -1,0 +1,3 @@
+﻿  main.c
+E:\CODE\learn_c-cpp\23.practice_c_2025_10_29\23.practice_c_2025_10_29\main.c(14,9): warning C4047: “return”:“int *”与“int”的间接级别不同
+  23.practice_c_2025_10_29.vcxproj -> E:\CODE\learn_c-cpp\23.practice_c_2025_10_29\x64\Debug\23.practice_c_2025_10_29.exe
