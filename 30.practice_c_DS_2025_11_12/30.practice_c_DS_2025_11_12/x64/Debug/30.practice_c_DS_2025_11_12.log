@@ -1,0 +1,5 @@
+﻿  main.c
+  slistnode.c
+  正在生成代码...
+E:\CODE\learn_c-cpp\30.practice_c_DS_2025_11_12\30.practice_c_DS_2025_11_12\main.c(81,1): warning C4716: “SLN_create”: 必须返回一个值
+  30.practice_c_DS_2025_11_12.vcxproj -> E:\CODE\learn_c-cpp\30.practice_c_DS_2025_11_12\x64\Debug\30.practice_c_DS_2025_11_12.exe
