@@ -52,7 +52,8 @@ void seq_list_push_front(SL* ps, data_type x) {
 //删除
 void seq_list_pop_back(SL* ps) {
 	assert(ps);
-	assert(ps->numbsize);
+	assert(ps->size);
+
 	ps->size--;
 	if (ps->size < 0) {
 		printf("err : ps->size < 0\n");
@@ -61,7 +62,8 @@ void seq_list_pop_back(SL* ps) {
 }//尾删
 void seq_list_pop_front(SL* ps) {
 	assert(ps);
-	assert(ps->numbsize);
+	assert(ps->size);
+
 	for (int i = 0;i < ps->size - 1 ;i++) {
 		ps->arr[i] = ps->arr[i + 1];
 	}
@@ -75,6 +77,7 @@ void seq_list_pop_front(SL* ps) {
 //指定位置插入
 void seq_list_insert(SL* ps, int n, data_type x) {
 	assert(ps);
+	assert(n >= 0 && n < ps->size);
 	seq_list_check_memory(ps);
 	ps->size++;
 	for (int i = ps->size - 1;i > n;i--) {
@@ -86,6 +89,8 @@ void seq_list_insert(SL* ps, int n, data_type x) {
 void seq_list_erase(SL* ps, int n) {
 	assert(ps);
 	assert(ps->numbsize);
+	assert(n >= 0 && n < ps->size);
+
 	for (int i = n;i < ps->size - 1;i++) {
 		ps->arr[i] = ps->arr[i + 1];
 	}

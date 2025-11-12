@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52D9EC80-75D4-4058-AF87-A3979472ADE0}|29.practice_c_DS_SeqL\\29.practice_c_DS_SeqL.vcxproj|E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\29.practice_c_DS_SeqL\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52D9EC80-75D4-4058-AF87-A3979472ADE0}|29.practice_c_DS_SeqL\\29.practice_c_DS_SeqL.vcxproj|solutionrelative:29.practice_c_DS_SeqL\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{52D9EC80-75D4-4058-AF87-A3979472ADE0}|29.practice_c_DS_SeqL\\29.practice_c_DS_SeqL.vcxproj|E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\29.practice_c_DS_SeqL\\sep_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{52D9EC80-75D4-4058-AF87-A3979472ADE0}|29.practice_c_DS_SeqL\\29.practice_c_DS_SeqL.vcxproj|solutionrelative:29.practice_c_DS_SeqL\\sep_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D9EC80-75D4-4058-AF87-A3979472ADE0}|29.practice_c_DS_SeqL\\29.practice_c_DS_SeqL.vcxproj|E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\29.practice_c_DS_SeqL\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52D9EC80-75D4-4058-AF87-A3979472ADE0}|29.practice_c_DS_SeqL\\29.practice_c_DS_SeqL.vcxproj|solutionrelative:29.practice_c_DS_SeqL\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52D9EC80-75D4-4058-AF87-A3979472ADE0}|29.practice_c_DS_SeqL\\29.practice_c_DS_SeqL.vcxproj|E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\29.practice_c_DS_SeqL\\seq_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\29.practice_c_DS_SeqL\\main.c",
               "RelativeDocumentMoniker": "29.practice_c_DS_SeqL\\main.c",
               "ToolTip": "E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\29.practice_c_DS_SeqL\\main.c",
               "RelativeToolTip": "29.practice_c_DS_SeqL\\main.c",
-              "ViewState": "AQIAAKkAAAAAAAAAAAASwLcAAAAVAAAA",
+              "ViewState": "AQIAALIAAAAAAAAAAAASwKYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-11T08:10:40.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "sep_list.c",
               "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\29.practice_c_DS_SeqL\\sep_list.c",
               "RelativeDocumentMoniker": "29.practice_c_DS_SeqL\\sep_list.c",
               "ToolTip": "E:\\CODE\\learn_c-cpp\\29.practice_c_DS_SeqList_2025_11_11\\29.practice_c_DS_SeqL\\sep_list.c",
               "RelativeToolTip": "29.practice_c_DS_SeqL\\sep_list.c",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAYwGEAAAAEAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAG0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-11T08:10:33.689Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "29.practice_c_DS_SeqL\\seq_list.h",
               "ViewState": "AQIAAA8AAAAAAAAAAADwvx0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-11T08:10:15.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T08:10:15.095Z"
             }
           ]
         }

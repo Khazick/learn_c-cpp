@@ -164,7 +164,7 @@ void test_seplist2() {
 	print_seqlist(&s);
 	seq_list_insert(&s, 1, 3);
 	print_seqlist(&s);
-	seq_list_insert(&s, 4, 0);
+	seq_list_insert(&s, s.size-1, 0);
 	print_seqlist(&s);
 
 	//Ö¸¶¨Î»ÖÃÉ¾³ı
