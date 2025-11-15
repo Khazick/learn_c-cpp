@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1474C13-B92C-4790-B0DD-59C60A5FE973}|30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15.vcxproj|E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1474C13-B92C-4790-B0DD-59C60A5FE973}|30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15.vcxproj|solutionrelative:30.practice_c_DS_slistnode_2025.11.15\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1474C13-B92C-4790-B0DD-59C60A5FE973}|30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15.vcxproj|E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\slist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1474C13-B92C-4790-B0DD-59C60A5FE973}|30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15.vcxproj|solutionrelative:30.practice_c_DS_slistnode_2025.11.15\\slist.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1474C13-B92C-4790-B0DD-59C60A5FE973}|30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15.vcxproj|E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\slist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1474C13-B92C-4790-B0DD-59C60A5FE973}|30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15.vcxproj|solutionrelative:30.practice_c_DS_slistnode_2025.11.15\\slist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "slist.h",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\slist.h",
+              "RelativeDocumentMoniker": "30.practice_c_DS_slistnode_2025.11.15\\slist.h",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\slist.h",
+              "RelativeToolTip": "30.practice_c_DS_slistnode_2025.11.15\\slist.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T05:59:03.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "slist.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\slist.c",
+              "RelativeDocumentMoniker": "30.practice_c_DS_slistnode_2025.11.15\\slist.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\slist.c",
+              "RelativeToolTip": "30.practice_c_DS_slistnode_2025.11.15\\slist.c",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAYwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-15T05:59:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\main.c",
+              "RelativeDocumentMoniker": "30.practice_c_DS_slistnode_2025.11.15\\main.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\30.practice_c_DS_slistnode_2025.11.15\\30.practice_c_DS_slistnode_2025.11.15\\main.c",
+              "RelativeToolTip": "30.practice_c_DS_slistnode_2025.11.15\\main.c",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAYwFAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-15T05:51:28.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
