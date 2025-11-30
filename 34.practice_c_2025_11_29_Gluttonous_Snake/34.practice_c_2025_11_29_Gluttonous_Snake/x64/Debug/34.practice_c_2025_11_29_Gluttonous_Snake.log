@@ -1,3 +1,3 @@
 ﻿D:\Sofeware\VS2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
   snake.c
-  34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj -> E:\CODE\learn_c-cpp\34.practice_c_2025_11_29_Greedy_Snake\x64\Debug\34.practice_c_2025_11_29_Greedy_Snake.exe
+  34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj -> E:\CODE\learn_c-cpp\34.practice_c_2025_11_29_Gluttonous_Snake\x64\Debug\34.practice_c_2025_11_29_Greedy_Snake.exe

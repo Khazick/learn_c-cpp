@@ -5,8 +5,17 @@
 #include <windows.h>
 #include <stdbool.h>
 #include <locale.h>
+#include <assert.h>
+#include <time.h>
 
 //类型的声明
+#define WALL L'墙'
+#define BODY L'蛇' 
+#define FOOD L'鼠'
+
+//检测按键宏
+#define KEY_PRESS(VK) ((GetAsyncKeyState(VK)&1)?1:0)
+
 //蛇身节点类型
 typedef struct SnakeNode
 {
@@ -57,4 +66,28 @@ void WelcomeToGame();
 void SetPos(short x, short y);
 //创建地图
 void CreateMap();
+//创建蛇身
+void InitSnake(Snake* snake);
+//创建初始食物
+void CreateFood(Snake* snake);
+
+//游戏运行
+void game_run(Snake* snake);
+//暂停
+void pause();
+//蛇移动
+void SnakeMove(Snake* snake);
+//判断下一个节点是否为食物
+int NextIsFood(SnakeNode* next, Snake* snake);
+//下一个是食物
+void EatFood(SnakeNode* next, Snake* snake);
+//下一个不是食物
+void NotFood(SnakeNode* next, Snake* snake);
+//是否撞墙
+int KillByWall(Snake* snake);
+//是否撞身体
+int KillByBody(Snake* snake);
+
+//游戏结束
+void game_end(Snake* snake);
 

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\",
+  "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|solutionrelative:34.practice_c_2025_11_29_Gluttonous_Snake\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|solutionrelative:34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|solutionrelative:34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BCBEACE-600B-4D4B-8311-D013A868BE2E}|34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake.vcxproj|solutionrelative:34.practice_c_2025_11_29_Gluttonous_Snake\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "snake.h",
-              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h",
               "RelativeDocumentMoniker": "34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h",
-              "ToolTip": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h",
               "RelativeToolTip": "34.practice_c_2025_11_29_Gluttonous_Snake\\snake.h",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAADoAAAARAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-29T07:55:14.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "snake.c",
-              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c",
               "RelativeDocumentMoniker": "34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c",
-              "ToolTip": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c",
               "RelativeToolTip": "34.practice_c_2025_11_29_Gluttonous_Snake\\snake.c",
-              "ViewState": "AQIAADYAAAAAAAAAAAAYwDsAAAA4AAAA",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAmwCoBAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-29T07:55:05.812Z",
+              "WhenOpened": "2025-11-30T06:43:00.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\main.c",
+              "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\main.c",
               "RelativeDocumentMoniker": "34.practice_c_2025_11_29_Gluttonous_Snake\\main.c",
-              "ToolTip": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Greedy_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\main.c",
+              "ToolTip": "E:\\CODE\\learn_c-cpp\\34.practice_c_2025_11_29_Gluttonous_Snake\\34.practice_c_2025_11_29_Gluttonous_Snake\\main.c",
               "RelativeToolTip": "34.practice_c_2025_11_29_Gluttonous_Snake\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-29T07:54:25.235Z"
+              "WhenOpened": "2025-11-29T07:54:25.235Z",
+              "EditorCaption": ""
             }
           ]
         }
