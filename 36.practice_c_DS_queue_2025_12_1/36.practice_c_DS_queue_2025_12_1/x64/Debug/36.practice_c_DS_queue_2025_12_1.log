@@ -1,0 +1,4 @@
+﻿  queue.c
+E:\CODE\learn_c-cpp\36.practice_c_DS_queue_2025_12_1\36.practice_c_DS_queue_2025_12_1\queue.c(33,15): warning C4133: “=”: 从“Queue *”到“QueueNode *”的类型不兼容
+E:\CODE\learn_c-cpp\36.practice_c_DS_queue_2025_12_1\36.practice_c_DS_queue_2025_12_1\queue.c(31,9): warning C4133: “初始化”: 从“QueueNode *”到“Queue *”的类型不兼容
+  36.practice_c_DS_queue_2025_12_1.vcxproj -> E:\CODE\learn_c-cpp\36.practice_c_DS_queue_2025_12_1\x64\Debug\36.practice_c_DS_queue_2025_12_1.exe
