@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\CODE\\learn_c-cpp\\36.practice_c_DS_queue_2025_12_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6520505F-B150-4362-A1F5-5B63D30CFEB5}|36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1.vcxproj|E:\\CODE\\learn_c-cpp\\36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6520505F-B150-4362-A1F5-5B63D30CFEB5}|36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1.vcxproj|solutionrelative:36.practice_c_DS_queue_2025_12_1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6520505F-B150-4362-A1F5-5B63D30CFEB5}|36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1.vcxproj|E:\\CODE\\learn_c-cpp\\36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1\\queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6520505F-B150-4362-A1F5-5B63D30CFEB5}|36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1.vcxproj|solutionrelative:36.practice_c_DS_queue_2025_12_1\\queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6520505F-B150-4362-A1F5-5B63D30CFEB5}|36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1.vcxproj|E:\\CODE\\learn_c-cpp\\36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6520505F-B150-4362-A1F5-5B63D30CFEB5}|36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1.vcxproj|solutionrelative:36.practice_c_DS_queue_2025_12_1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6520505F-B150-4362-A1F5-5B63D30CFEB5}|36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1.vcxproj|E:\\CODE\\learn_c-cpp\\36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -34,25 +34,24 @@
               "RelativeToolTip": "36.practice_c_DS_queue_2025_12_1\\queue.h",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-01T10:20:54.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T10:20:54.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "queue.c",
               "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1\\queue.c",
               "RelativeDocumentMoniker": "36.practice_c_DS_queue_2025_12_1\\queue.c",
               "ToolTip": "E:\\CODE\\learn_c-cpp\\36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1\\queue.c",
               "RelativeToolTip": "36.practice_c_DS_queue_2025_12_1\\queue.c",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAAPAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwD0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-01T09:45:34.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "E:\\CODE\\learn_c-cpp\\36.practice_c_DS_queue_2025_12_1\\36.practice_c_DS_queue_2025_12_1\\main.c",
               "RelativeDocumentMoniker": "36.practice_c_DS_queue_2025_12_1\\main.c",
